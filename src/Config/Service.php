@@ -28,7 +28,7 @@ class Service implements ConfigInterface
     /**
      * @var string
      */
-    private $defaultHost = 'api.frenet.com.br';
+    private $defaultHost = 'app_frete_tengine';
 
     /**
      * @var string
